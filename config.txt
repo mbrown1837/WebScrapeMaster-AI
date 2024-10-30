@@ -1,5 +1,5 @@
 api_provider=together
 model=meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo
-together_api_key=309390a4a20fac0ad03527f3d6505f875961f0dc092f4db9739ff545e491de34
+together_api_key=your-together_api_key
 groq_api_key=your-groq-api-key
 chunk_size=30000
