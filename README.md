@@ -1,4 +1,3 @@
-```markdown
 # WebScrapeMaster-AI
 
 A powerful web scraping tool that leverages AI (Together API) to extract structured information from websites using Large Language Models (LLMs). This tool is specifically optimized for the Meta-Llama-3.1-70B-Instruct-Turbo model.
@@ -32,7 +31,7 @@ pip install -r requirements.txt
 
 Install Playwright browsers:
 ```bash
-playwright install chromium
+!playwright install chromium
 ```
 
 ## Configuration
@@ -61,7 +60,7 @@ https://example.com/page2
 
 Run the script:
 ```bash
-python scrapemaster_colab.py
+!python scrapemaster_colab.py
 ```
 
 ## Output Structure
