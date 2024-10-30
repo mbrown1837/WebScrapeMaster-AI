@@ -17,3 +17,15 @@ A powerful web scraping tool that leverages AI (Together API) to extract structu
 Clone the repository:
 ```bash
 git clone https://github.com/yourusername/WebScrapeMaster-AI.git
+
+Navigate to the project directory:
+```bash
+cd WebScrapeMaster-AI
+
+Install required dependencies:
+```bash
+pip install -r requirements.txt
+
+Install Playwright browsers:
+```bash
+playwright install chromium
