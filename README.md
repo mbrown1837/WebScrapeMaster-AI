@@ -28,4 +28,29 @@ pip install -r requirements.txt
 
 Install Playwright browsers:
 ```bash
-playwright install chromium
+!playwright install chromium
+
+
+## Configuration
+
+Create `config.txt`:
+```text
+model=meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo
+together_api_key=your-together-api-key
+
+##Create fields.txt:
+```text
+names
+email
+phone number
+designation
+
+##Create urls.txt:
+```text
+https://example.com/page1
+https://example.com/page2
+
+##Usage
+Run the script:
+```bash
+!python scrapemaster_colab.py
