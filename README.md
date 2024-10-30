@@ -16,7 +16,7 @@ A powerful web scraping tool that leverages AI (Together API) to extract structu
 
 Clone the repository:
 ```bash
-!git clone https://github.com/yourusername/WebScrapeMaster-AI.git
+!git clone https://github.com/mbrown1837/WebScrapeMaster-AI.git
 ```
 
 Navigate to the project directory:
