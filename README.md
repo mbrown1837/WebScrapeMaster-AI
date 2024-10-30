@@ -1,4 +1,4 @@
-# WebScrapeMaster-AI
+# WebScrapeMaster-AI For Colab Only
 
 A powerful web scraping tool that leverages AI (Together API) to extract structured information from websites using Large Language Models (LLMs). This tool is specifically optimized for the Meta-Llama-3.1-70B-Instruct-Turbo model.
 
@@ -16,7 +16,7 @@ A powerful web scraping tool that leverages AI (Together API) to extract structu
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/WebScrapeMaster-AI.git
+!git clone https://github.com/yourusername/WebScrapeMaster-AI.git
 ```
 
 Navigate to the project directory:
