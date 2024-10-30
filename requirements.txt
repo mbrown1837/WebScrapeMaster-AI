@@ -1,0 +1,14 @@
+playwright
+together
+fake-useragent
+openai
+python-dotenv
+pandas
+pydantic
+requests
+beautifulsoup4
+html2text
+tiktoken
+openpyxl
+groq
+google-generativeai
